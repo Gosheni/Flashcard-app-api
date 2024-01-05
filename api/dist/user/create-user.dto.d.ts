@@ -1,0 +1,6 @@
+export declare class CreateUserDto {
+    username: string;
+    password: string;
+    displayName: string;
+    avatar: string;
+}
